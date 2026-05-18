@@ -21,4 +21,5 @@ Quality assurance is embedded throughout execution. The PR workflow mandates sma
 | [Risks and Communication](octoacme-risks-and-communication.md) | Defines how risks are logged, assessed, and mitigated, plus standardized stakeholder updates and escalation paths. |
 | [Release and Deployment](octoacme-release-and-deployment.md) | Standardizes release and deployment steps including pre-release checks, deployment verification, and rollback playbooks. |
 | [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Focuses on capturing learnings and turning them into prioritized action items tracked in the backlog. |
-| [Roles and Personas](octoacme-roles-and-personas.md) | Defines responsibilities, goals, and communication patterns for Developers, Product Managers, and Project Managers. |
+| [Roles and Personas](octoacme-roles-and-personas.md) | Defines responsibilities, goals, and communication patterns for all project roles including Developers, Product Managers, Project Managers, QA, UX, DevOps/SRE, Technical Leads, and Executive Sponsors. |
+| [QA & Release Readiness Checklist](octoacme-qa-release-checklist.md) | Standardized checklist for feature-level QA validation and release readiness sign-off. |
